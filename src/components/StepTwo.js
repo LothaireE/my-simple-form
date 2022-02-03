@@ -1,4 +1,5 @@
+import { useState } from "react/cjs/react.development";
 const StepTwo = (props) => {
-  return <h1>StepTwo</h1>;
+  console.log(steptwo);
 };
 export default StepTwo;

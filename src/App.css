@@ -1,8 +1,19 @@
 h1 {
   font-size: 40px;
 }
-
+.myContainer {
+  width: 1024px;
+  margin: auto;
+  height: 500px;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: black 2px solid;
+}
 .myFormular {
+  border: black 2px solid;
+  padding: 40px;
   align-items: center;
   display: flex;
   flex-direction: column;
